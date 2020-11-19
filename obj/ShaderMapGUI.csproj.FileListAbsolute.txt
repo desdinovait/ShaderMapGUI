@@ -1,0 +1,16 @@
+D:\ShaderMapGUI\obj\Debug\ResolveAssemblyReference.cache
+D:\ShaderMapGUI\obj\Debug\ShaderMapGUI.Form1.resources
+D:\ShaderMapGUI\obj\Debug\ShaderMapGUI.Properties.Resources.resources
+D:\ShaderMapGUI\obj\Debug\ShaderMapGUI.csproj.GenerateResource.Cache
+D:\ShaderMapGUI\bin\Debug\ShaderMapGUI.exe
+D:\ShaderMapGUI\bin\Debug\ShaderMapGUI.pdb
+D:\ShaderMapGUI\obj\Debug\ShaderMapGUI.exe
+D:\ShaderMapGUI\obj\Debug\ShaderMapGUI.pdb
+D:\Projects\C#\ShaderMapGUI\obj\Debug\ShaderMapGUI.exe
+D:\Projects\C#\ShaderMapGUI\obj\Debug\ShaderMapGUI.pdb
+D:\Projects\C#\ShaderMapGUI\bin\Debug\ShaderMapGUI.exe
+D:\Projects\C#\ShaderMapGUI\bin\Debug\ShaderMapGUI.pdb
+D:\Projects\C#\ShaderMapGUI\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\C#\ShaderMapGUI\obj\Debug\ShaderMapGUI.Form1.resources
+D:\Projects\C#\ShaderMapGUI\obj\Debug\ShaderMapGUI.Properties.Resources.resources
+D:\Projects\C#\ShaderMapGUI\obj\Debug\ShaderMapGUI.csproj.GenerateResource.Cache
